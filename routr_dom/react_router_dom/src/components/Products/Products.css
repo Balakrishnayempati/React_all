@@ -1,0 +1,33 @@
+#cont
+{
+    border: 1px solid black;
+    padding: 10px 20px;
+    margin: 10px 20px;
+    border-radius: 14px;
+}
+#cont>img{
+    border-radius: 100%;
+}
+#parent_container
+{
+    display: grid;
+    grid-template-columns:auto auto;
+    width: 100%;
+    /* background-color: aqua; */
+}
+#but
+{
+    padding: 4px 14px;
+    margin-top: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    color: white;
+    background-color: rgba(130, 139, 136, 0.598);
+}
+#but:hover
+{
+    background-color: white;
+    transition: all 1s;
+    color: black;
+}

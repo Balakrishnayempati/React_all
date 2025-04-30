@@ -1,0 +1,25 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#ll
+{
+ padding: 20px;
+ border: 1px solid #ccc;
+ border-radius: 8px;
+ background-color: #f9f9f9;
+ text-align: center;
+ height:900px;
+
+}
+#blo
+{
+ display: grid;
+ grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+ gap: 20px;
+ padding: 20px;
+justify-content: center;
+align-items: center;
+}

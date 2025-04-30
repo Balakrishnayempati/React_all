@@ -1,0 +1,28 @@
+
+#nav
+{
+    display: flex;
+    justify-content: space-between;
+    background-color: lightblue;
+    padding:5px;
+    font-size: 16px;
+    align-items: center;
+    width: 100%;
+}
+#left_nav
+{
+    font-size: 20px;
+}
+#right_nav
+{
+display: flex;
+gap: 35px;
+
+}
+#li{
+    background-color: rgba(250, 128, 114, 0.447);
+    padding: 5px;
+    border-radius: 4%;
+    text-decoration: none;
+    color: black;
+}

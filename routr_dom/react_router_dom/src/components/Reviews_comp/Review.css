@@ -1,0 +1,19 @@
+#rev
+{
+    display:grid;
+    grid-template-columns: auto ;
+    align-items: center;
+    text-align: center;
+    border: 1px solid black;
+    gap: 30px;
+    /* background-color: aqua; */
+    margin-top: 20px;
+    
+    
+}
+#rr
+{
+    border: 1px solid black;
+    height: 200px;
+
+}
