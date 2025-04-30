@@ -7,7 +7,7 @@ function Nav()
     return(
         <div id="nav">
             <div id="left_nav">
-                <h2>Finexo</h2>
+                <h2>FINEXO</h2>
             </div>
 
             <div id="right_nav">
